@@ -1,5 +1,5 @@
-# Awesome Assistant API
-Try assistant API apps on Google Colab for free.
+# Awesome ChatGPT Assistant API
+Try OpenAI assistant API apps on Google Colab for free.
 
 Here I created some demos based on GPT-4V, Dall-e 3, and Assistant API.
 So you can try these APIs easily on Google colab, and even on your own machine.
